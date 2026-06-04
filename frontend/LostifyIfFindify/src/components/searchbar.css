@@ -1,0 +1,36 @@
+.dark-input::placeholder {
+  color: #ffffff !important;
+}
+
+.light-input::placeholder {
+  color: #000000 !important;
+}
+
+
+.Link {
+  transition: all 0.15s ease-in-out;
+}
+
+.Link:hover {
+  filter: brightness(90%);
+  background-color: #4b4b4bab;
+}
+
+.Link-green {
+  transition: all 0.15s ease-in-out;
+}
+
+.Link-green:hover {
+  filter: brightness(90%);
+  background-color: #028041;
+  color: white !important;
+}
+
+.form-control:focus {
+  border-color: #035020 !important;
+  box-shadow: 0 0 0 .25rem rgba(2, 133, 52, 0.25) !important;
+}
+
+.light-background {
+  background-color: #9e9e9efa !important;
+}

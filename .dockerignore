@@ -1,0 +1,6 @@
+node_modules
+frontend/LostifyIfFindify/node_modules
+backend/node_modules
+frontend/LostifyIfFindify/dist
+.git
+.env

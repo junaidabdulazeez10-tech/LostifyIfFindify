@@ -1,0 +1,17 @@
+.card {
+  width: 100%;
+  max-width: 50rem;
+  margin: 40px auto;
+}
+
+@media (max-width: 576px) {
+  :root {
+    --header-height: 220px;
+  }
+}
+
+@media (min-width: 577px) {
+  :root {
+    --header-height: 160px;
+  }
+}
